@@ -1,11 +1,13 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
-import projImg1 from "../assets/img/project-img1.png";
-import projImg2 from "../assets/img/project-img2.png";
-import projImg3 from "../assets/img/project-img3.png";
+import projImg1 from "../assets/img/Minymamessaging-Cover.png";
+import projImg2 from "../assets/img/Highwaypolice-cover.png";
+import projImg3 from "../assets/img/mbil-cover.png";
 import projImg4 from "../assets/img/HidupSehatApp-Cover.png";
 import projImg5 from "../assets/img/OncologyPHR_Cover.png";
 import projImg6 from "../assets/img/GrooveAppDesign.png";
+import projImg7 from "../assets/img/pesonacoffe-cover.png";
+import projImg8 from "../assets/img/webilu-cover.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -14,24 +16,24 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Messaging Service for Minyma",
+      description: "Backend Developer",
       imgUrl: projImg1,
-      githubUrl: "https://github.com/username/business-startup",
+      githubUrl: "https://mynima-messaging-stg-aad7266df561.herokuapp.com/swagger-ui/index.html#/",
       category: "webdev"
     },
     {
-      title: "Creative Design",
-      description: "Graphic Design Project",
+      title: "Police Highway Game",
+      description: "Unity Project",
       imgUrl: projImg2,
-      githubUrl: "https://github.com/username/creative-design",
-      category: "design"
+      githubUrl: "https://drive.google.com/drive/folders/1phNrrueT2gQyKv6u9wM5Zur8SKFTRQ3c",
+      category: "webdev"
     },
     {
-      title: "Cool App",
+      title: "MBIL App",
       description: "Mobile App Development",
       imgUrl: projImg3,
-      githubUrl: "https://github.com/username/cool-app",
+      githubUrl: "https://drive.google.com/drive/folders/1Z-LOMYWQ6v_lDe6K4izOSJxdT-VP3mQ2?usp=sharing",
       category: "webdev"
     },
     {
@@ -54,6 +56,20 @@ export const Projects = () => {
       imgUrl: projImg6,
       githubUrl: "https://www.figma.com/design/pZJcgzUGSSCWqIz4Zzk8XY/Kelompok-3---Projek-Akhir---Groove?node-id=0-1&t=cAMWQuAnbMd58Gfj-1",
       category: "design"
+    },
+    {
+      title: "Pesona Coffe Website",
+      description: "Website",
+      imgUrl: projImg7,
+      githubUrl: "https://drive.google.com/drive/folders/1FJolM66xKUU_E13bq76uVIw86-ZJ-J85?usp=sharing",
+      category: "webdev"
+    },
+    {
+      title: "Design Web Webilu",
+      description: "website react sederhana",
+      imgUrl: projImg8,
+      githubUrl: "https://uas-webilu.vercel.app/home",
+      category: "webdev"
     },
   ];
 
