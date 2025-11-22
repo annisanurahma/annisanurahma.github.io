@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.54e58df3.css",
+    "main.js": "/static/js/main.789fdcd9.js",
+    "static/js/453.47f67691.chunk.js": "/static/js/453.47f67691.chunk.js",
+    "static/media/OncologyPHR_Cover.png": "/static/media/OncologyPHR_Cover.20559a3d8ab782f38986.png",
+    "static/media/webilu-cover.png": "/static/media/webilu-cover.2149f71b07002941767a.png",
+    "static/media/GrooveAppDesign.png": "/static/media/GrooveAppDesign.c5ad2aa1befeabe3e471.png",
+    "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/banner-bg.png": "/static/media/banner-bg.d9706019cca22c0c4bc7.png",
+    "static/media/Highwaypolice-cover.png": "/static/media/Highwaypolice-cover.1f22a1a353f279d18532.png",
+    "static/media/HidupSehatApp-Cover.png": "/static/media/HidupSehatApp-Cover.7ef00a9feda653f6f4d2.png",
+    "static/media/pesonacoffe-cover.png": "/static/media/pesonacoffe-cover.f661e70dbf9b653d5a9c.png",
+    "static/media/mbil-cover.png": "/static/media/mbil-cover.d79fab7bbbf938df1931.png",
+    "static/media/annisa_animasi.png": "/static/media/annisa_animasi.5d507f6b1051800cf4e6.png",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/Minymamessaging-Cover.png": "/static/media/Minymamessaging-Cover.de3e6a5d4897165d5772.png",
+    "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/contact-img.svg": "/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/ann.png": "/static/media/ann.08cdb9ea2e92a1dad34d.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/nav-icon3.svg": "/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "index.html": "/index.html",
+    "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.54e58df3.css.map": "/static/css/main.54e58df3.css.map",
+    "main.789fdcd9.js.map": "/static/js/main.789fdcd9.js.map",
+    "453.47f67691.chunk.js.map": "/static/js/453.47f67691.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54e58df3.css",
+    "static/js/main.789fdcd9.js"
+  ]
+}
