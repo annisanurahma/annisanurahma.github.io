@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.54e58df3.css",
-    "main.js": "/static/js/main.4c5f668c.js",
+    "main.js": "/static/js/main.a86d1131.js",
     "static/js/453.73b8e736.chunk.js": "/static/js/453.73b8e736.chunk.js",
     "static/media/OncologyPHR_Cover.png": "/static/media/OncologyPHR_Cover.20559a3d8ab782f38986.png",
     "static/media/webilu-cover.png": "/static/media/webilu-cover.2149f71b07002941767a.png",
     "static/media/GrooveAppDesign.png": "/static/media/GrooveAppDesign.c5ad2aa1befeabe3e471.png",
     "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/image.png": "/static/media/image.dfc1ec4e21592f2c3546.png",
     "static/media/banner-bg.png": "/static/media/banner-bg.d9706019cca22c0c4bc7.png",
     "static/media/Highwaypolice-cover.png": "/static/media/Highwaypolice-cover.1f22a1a353f279d18532.png",
     "static/media/HidupSehatApp-Cover.png": "/static/media/HidupSehatApp-Cover.7ef00a9feda653f6f4d2.png",
@@ -29,11 +30,11 @@
     "index.html": "/index.html",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.54e58df3.css.map": "/static/css/main.54e58df3.css.map",
-    "main.4c5f668c.js.map": "/static/js/main.4c5f668c.js.map",
+    "main.a86d1131.js.map": "/static/js/main.a86d1131.js.map",
     "453.73b8e736.chunk.js.map": "/static/js/453.73b8e736.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.54e58df3.css",
-    "static/js/main.4c5f668c.js"
+    "static/js/main.a86d1131.js"
   ]
 }
